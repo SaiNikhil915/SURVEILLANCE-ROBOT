@@ -1,0 +1,5 @@
+These below files we should run on rasberrypi using  VNC  Viewer
+
+robot.py     // For controlling our robot manually
+code.py      // Automatically our robot will move with taking inputs from the sensor
+camera.py    // For accessing rasberrypi camera module
